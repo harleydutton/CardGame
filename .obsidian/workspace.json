@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phases/Movement Phase.md",
+                "file": "App/Phases/Movement Phase.md",
                 "mode": "source",
                 "source": false
               },
@@ -111,7 +111,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phases/Movement Phase.md",
+                "file": "App/Phases/Movement Phase.md",
                 "mode": "source",
                 "source": false
               },
@@ -125,7 +125,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phases/Encounter Phase.md",
+                "file": "App/Phases/Encounter Phase.md",
                 "mode": "source",
                 "source": false
               },
@@ -167,7 +167,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phases/BBEG Phase.md",
+                "file": "App/Phases/BBEG Phase.md",
                 "mode": "source",
                 "source": false
               },
@@ -237,12 +237,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Encounters/Quest.md",
+                "file": "Theory and Design/quarterbacking problem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quest"
+              "title": "quarterbacking problem"
             }
           }
         ],
@@ -319,7 +319,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/Quest.md",
+                "file": "Theory and Design/quarterbacking problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -329,7 +329,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Quest"
+              "title": "Backlinks for quarterbacking problem"
             }
           },
           {
@@ -338,12 +338,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/Quest.md",
+                "file": "Theory and Design/quarterbacking problem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Quest"
+              "title": "Outgoing links from quarterbacking problem"
             }
           },
           {
@@ -367,13 +367,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/Quest.md",
+                "file": "Theory and Design/quarterbacking problem.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Quest"
+              "title": "Outline of quarterbacking problem"
             }
           }
         ]
@@ -395,22 +395,24 @@
   },
   "active": "5623a2955cd7c3de",
   "lastOpenFiles": [
+    "Theory and Design/just go down the fucking stairs.md",
+    "Theory and Design/grouping vs splitting.md",
+    "App/Encounters Screen.md",
+    "Encounter.md",
+    "App/App Flow.canvas",
+    "Theory and Design/quarterbacking problem.md",
+    "Encounters/Quest.md",
     "Resources.md",
     "Theory and Design/Overlap between cards and resources.md",
     "Map/Teardown+Setup+Respawn.md",
     "theory/Untitled",
     "Map/respawn.md",
-    "Theory and Design/just go down the fucking stairs.md",
-    "Theory and Design/grouping vs splitting.md",
-    "Theory and Design/quarterbacking problem.md",
     "Theory and Design",
     "Map.md",
-    "Encounter.md",
     "app flow snapshot delete me.md",
-    "App/App Flow.canvas",
     "Cards.md",
     "App/Concerns",
-    "App/Concerns/BBEG.md",
+    "Map/BBEG.md",
     "App/Concerns/Floor.md",
     "Cards",
     "Cards",
@@ -419,18 +421,15 @@
     "Settings",
     "Encounters",
     "App.md",
-    "Phases/Encounter Phase.md",
-    "App/Encounters Screen.md",
+    "App/Phases/Encounter Phase.md",
     "Cards/Trade.md",
     "Map/Tiles.md",
-    "Encounters/Quest.md",
     "Encounters/Puzzle.md",
     "Map/Pawns.md",
     "Encounters/Obstacle.md",
     "App/Concerns/Classes.md",
     "App/Setup Screen.md",
-    "Phases/Movement Phase.md",
-    "Phases",
+    "App/Phases",
     "App",
     "App Mocks/Entry Point.canvas"
   ]

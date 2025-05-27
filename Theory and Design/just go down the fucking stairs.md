@@ -1,1 +1,5 @@
 - [[BBEG]] is one way to encourage this
+- food/water/torches are a resource that could encourage this
+- smacking players in the health bar with extra trap/combat encounters if the app thinks they are taking too long on a floor
+- something like the Mice and Mystics cheese clock.
+- players res at the downstairs. this probably does something regarding the [[quarterbacking problem]]
