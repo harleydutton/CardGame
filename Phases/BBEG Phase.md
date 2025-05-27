@@ -1,0 +1,3 @@
+- The app should tell you when to place the [[BBEG]] if we decide to use such a thing
+- should be about 10 seconds or so
+- move [[BBEG]] towards nearest player and hit a button to move to timed/encounter phase

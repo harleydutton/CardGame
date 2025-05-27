@@ -1,0 +1,3 @@
+- The map is a collection of [[Tiles]]
+- it can have [[Pawns]] and the [[BBEG]] on it
+- [[App]] doesn't know anything about the state of the map

@@ -1,0 +1,2 @@
+- Adventure selected in the [[Setup Screen]].
+- Has unique theme and quests and such.

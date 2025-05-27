@@ -1,0 +1,2 @@
+- Internal variable telling the [[App]] how hard things should be.
+- Possibly used for rebooting saved games.

@@ -1,0 +1,14 @@
+- probably split cards with 1-3 effects
+	- some way to buy/attune to a permanent effect
+	- some temporary effect
+	- consumable effect that causes the card to leave your deck
+- Cards need to care about
+	- movement
+	- [[Combat]]
+	- drawing more cards and other deckbuilder mechanics
+	- other [[Resources]]
+- at least some cards should be [[Trade|Tradeable]]. Assumes some are not
+	- items/armor/weapons/tools/consumables seem tradeable
+	- spells/abilities/powers/blessings/etc seem bound
+	- bound and tradeable if we are looking for terms
+- should minimize number of decks in this game. one deck would be ideal.

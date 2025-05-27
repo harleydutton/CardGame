@@ -1,0 +1,1 @@
+Some shit that's in the way. locked door, collapsed tunnel, big chasm, etc. Doesn't make sense to appear on dead end [[Tiles]]

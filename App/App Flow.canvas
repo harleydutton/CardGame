@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"9de64bb4589d5ee5","x":-720,"y":-200,"width":665,"height":365,"type":"text","text":"![[Encounters Screen]]"},
+		{"id":"bb1423bfe6150e9e","x":-983,"y":360,"width":928,"height":281,"type":"text","text":"![[Movement Phase]]"},
+		{"id":"66910f2076cc0106","x":97,"y":280,"width":691,"height":263,"type":"text","text":"![[BBEG Phase]]"},
+		{"id":"d7cdf84f888d8ef8","x":97,"y":-109,"width":353,"height":138,"type":"text","text":"# encounter resolution screen\n"},
+		{"id":"e0cd28d5ebfd3d90","x":-720,"y":-640,"width":640,"height":320,"type":"text","text":"![[Setup Screen]]"},
+		{"id":"7c02aa1e3ad7cc45","x":-1200,"y":-17,"width":309,"height":91,"type":"text","text":"# setup phase on floor completion"}
+	],
+	"edges":[
+		{"id":"22218ff1ac1361f1","fromNode":"9de64bb4589d5ee5","fromSide":"right","toNode":"d7cdf84f888d8ef8","toSide":"top"},
+		{"id":"300929c459737422","fromNode":"d7cdf84f888d8ef8","fromSide":"bottom","toNode":"9de64bb4589d5ee5","toSide":"right"},
+		{"id":"7fba4bdbd91913ee","fromNode":"e0cd28d5ebfd3d90","fromSide":"bottom","toNode":"9de64bb4589d5ee5","toSide":"top"},
+		{"id":"17ddbb794537f13a","fromNode":"9de64bb4589d5ee5","fromSide":"left","toNode":"7c02aa1e3ad7cc45","toSide":"top"},
+		{"id":"55baa9288ae58d65","fromNode":"9de64bb4589d5ee5","fromSide":"bottom","toNode":"bb1423bfe6150e9e","toSide":"top"},
+		{"id":"38189606bd7e7eca","fromNode":"bb1423bfe6150e9e","fromSide":"left","toNode":"9de64bb4589d5ee5","toSide":"left"},
+		{"id":"3e34d103c470c90f","fromNode":"bb1423bfe6150e9e","fromSide":"right","toNode":"66910f2076cc0106","toSide":"left"},
+		{"id":"c1bf427c952e997e","fromNode":"66910f2076cc0106","fromSide":"top","toNode":"9de64bb4589d5ee5","toSide":"bottom"},
+		{"id":"b320fd5c9a9486d4","fromNode":"7c02aa1e3ad7cc45","fromSide":"bottom","toNode":"bb1423bfe6150e9e","toSide":"left"}
+	]
+}
