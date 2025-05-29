@@ -1,0 +1,1 @@
+Encounters and their icons could completely change if the players change campaigns and get different tiles. If we were going to do this we would want set symbols or unique card backs for these sets. Probably set symbols to leave room to do the munchkin mix and mash.

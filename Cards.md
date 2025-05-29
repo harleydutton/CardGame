@@ -1,3 +1,7 @@
+---
+aliases:
+  - Card
+---
 - probably split cards with 1-3 effects
 	- some way to buy/attune to a permanent effect
 	- some temporary effect
@@ -11,4 +15,16 @@
 	- items/armor/weapons/tools/consumables seem tradeable
 	- spells/abilities/powers/blessings/etc seem bound
 	- bound and tradeable if we are looking for terms
+	- bound/trade cards should be indicated on the face as **all cards should have the same back**
 - should minimize number of decks in this game. one deck would be ideal.
+- players can have a maximum of 5 cards in their hand
+- all cards should have a move value, probably tied to [[Drop|Dropping]] the card.
+- when players take damage they must [[Drop]] one card for each point of damage. players can choose to drop cards from a combination of their hand, [[Discard]], or top of [[Deck]].
+- playing cards will [[Discard]] them
+- players should shuffle their hand, [[Discard]] and [[Deck]] at [[Setup Phase]] before drawing a new hand.
+- perhaps if you don't have enough cards in [[Deck]] to draw a full hand at the start of [[Movement Phase]] you [[Exhaust]]. not sure yet if players should discard remainder of hand but should definitely draw up to hand size regardless.
+- revive scroll cards should probably exist
+	- potentially let players keep their stuff when it would be lost
+	- revive immediately or during [[Setup Phase]]?
+	- should [[Exhaust]] cause players to lose their cards?
+- 

@@ -1,0 +1,1 @@
+there will not be an option for two players to play the same class, mostly because it will cause a breakdown in communication. it will be hard for players to tell the app they are doing that. it will be hard for the app to tell them which turn it is.

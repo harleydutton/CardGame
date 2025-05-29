@@ -1,0 +1,4 @@
+- [[BBEG Phase]] timing
+- max number of [[Cards]] in hand effectively limits movement
+- starting [[Deck]] size
+- weighting of [[Encounter]] types

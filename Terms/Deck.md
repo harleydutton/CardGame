@@ -1,0 +1,1 @@
+The cards a player has [[Acquire|Acquired]]. Shuffled and face down in a stack.

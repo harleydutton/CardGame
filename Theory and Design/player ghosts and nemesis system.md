@@ -1,0 +1,1 @@
+it could be interesting to do bosses/quests that remember old bosses/characters

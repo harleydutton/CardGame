@@ -1,0 +1,1 @@
+Seek will always be written as "Seek X" where X is a card type. To Seek, from the bottom or middle of the [[Hoard]], flip through cards until you find one of X type and [[Acquire]] it.

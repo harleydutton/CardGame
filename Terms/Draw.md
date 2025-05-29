@@ -1,0 +1,1 @@
+When a player puts a card from their [[Deck]] into their hand.

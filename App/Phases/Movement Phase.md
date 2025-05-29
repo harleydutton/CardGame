@@ -1,4 +1,4 @@
-- Players spend movement points they get from their [[Classes|Class]], [[Cards]], or [[Resources]] to move around the dungeon and draw, reveal, and place new [[Tiles]] on the [[map]].
+- Players spend movement points they get from their [[Classes|Class]], [[Cards]], or [[Resources]] to move around the dungeon and draw, reveal, and place new [[Tiles]] on the [[Map]].
 - Players can move at the same time during [[Movement Phase]].
 - movement phase is timed. probably 30 seconds to a minute. app will do something to indicate close to time.
 - movement phase can end early per [[Tiles|Tile]] traffic controls.

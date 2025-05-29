@@ -1,0 +1,1 @@
+knockback is potentially an interesting effect of a card tile/encounter
