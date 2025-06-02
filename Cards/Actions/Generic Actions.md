@@ -1,0 +1,4 @@
+- Draw
+- Discard
+- Reveal
+- Play

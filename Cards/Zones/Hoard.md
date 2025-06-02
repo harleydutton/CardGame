@@ -1,0 +1,1 @@
+Deck of shuffled, face-down [[Cards]] in the middle of the table.

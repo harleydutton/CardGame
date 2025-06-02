@@ -1,0 +1,1 @@
+Move a card to the [[Hoard]] discard pile.

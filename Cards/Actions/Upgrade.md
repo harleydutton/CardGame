@@ -1,0 +1,1 @@
+Play a card beneath an [[Equipment]] [[Equipment Slots]] card of the same [[Type]] to upgrade it's numeric values.

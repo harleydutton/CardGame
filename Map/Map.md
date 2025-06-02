@@ -1,0 +1,1 @@
+The map is a collection of square [[Tiles]] laid out edge-to-edge. Each tile can contain any number of [[Pawn|Pawns]].

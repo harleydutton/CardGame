@@ -8,7 +8,7 @@ Parts of a class as currently imagined:
 	- equipment slots
 	- stats like health an movement
 	- decent sized list of upgrades that can be bought with [[Resources]]
-- [[Pawns|Pawn]]
+- [[Pawn|Pawn]]
 - character icon in the [[App]]
 - starter deck?
 

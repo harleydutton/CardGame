@@ -1,0 +1,1 @@
+To [[Play]] an [[Equipment]] move it into one of your character's [[Equipment Slots]]. Any text on the card applies until [[Discard|Discarded]].

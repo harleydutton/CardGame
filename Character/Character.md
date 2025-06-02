@@ -1,0 +1,1 @@
+A character is comprised of a [[Pawn]] and a [[Sheet]].

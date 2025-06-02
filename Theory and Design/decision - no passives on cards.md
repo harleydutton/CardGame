@@ -1,0 +1,1 @@
+putting passives on cards (triggers and replacement effects and the like) could  very easily slow down the game, especially if they ever interact. We won't put them on cards to start with.

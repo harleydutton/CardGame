@@ -1,0 +1,1 @@
+Move a pawn to a validly connected [[Tiles|Tile]]. If this would be an empty space, draw a tile and place it in the most valid way possible.

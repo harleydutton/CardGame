@@ -1,0 +1,1 @@
+Slots for equipment as per your character [[Sheet]]. Each slot can only contain one equipment. Replaced equipment is discarded.

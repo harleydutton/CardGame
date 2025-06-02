@@ -1,0 +1,1 @@
+Draw a card from the [[Hoard]] and place it in your discard pile.

@@ -1,0 +1,3 @@
+- curses could be implemented either as a card type or as an entirely new deck, much like any of our card types
+- instead of burning from your hand, discard, or top of deck you could seek/acquire a curse instead
+- they should obviously do unpleasant shit and maybe be hard to get rid of

@@ -1,0 +1,3 @@
+- party loot/[[Curse]]
+- facedown in defense position
+- 

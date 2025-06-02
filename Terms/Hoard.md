@@ -1,1 +1,0 @@
-Shuffled, face-down stack of [[Cards]] in the middle of the table. The hoard can be split into multiple stacks so everyone can reach them easily.

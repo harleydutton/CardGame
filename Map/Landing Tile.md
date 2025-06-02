@@ -1,0 +1,1 @@
+A special tile representing the stairway landing from the previous floor.

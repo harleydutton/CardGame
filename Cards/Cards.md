@@ -2,15 +2,6 @@
 aliases:
   - Card
 ---
-- probably split cards with 1-3 effects
-	- some way to buy/attune to a permanent effect
-	- some temporary effect
-	- consumable effect that causes the card to leave your deck
-- Cards need to care about
-	- movement
-	- [[Combat]]
-	- drawing more cards and other deckbuilder mechanics
-	- other [[Resources]]
 - at least some cards should be [[Trade|Tradeable]]. Assumes some are not
 	- items/armor/weapons/tools/consumables seem tradeable
 	- spells/abilities/powers/blessings/etc seem bound
@@ -27,4 +18,6 @@ aliases:
 	- potentially let players keep their stuff when it would be lost
 	- revive immediately or during [[Setup Phase]]?
 	- should [[Exhaust]] cause players to lose their cards?
-- 
+- **All cards have the implicit text of "[[Drop]] this card to [[Move]] your [[Pawn|Pawn]]"**
+- ![[Non-equipment card format]]
+- ![[New Cards]]- I'm not sure this should be it's own note rather than being treated like hand, discard, deck, and play.
