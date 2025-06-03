@@ -1,4 +1,4 @@
-come [[Cards]] will have a mode that let you play them in a semi-permanent fashion. they will grant you some bonus while they are equipped. there are equipment slots. equipment can be upgraded: equip a bow, then play other bows under the first one to level it up. all equipment is [[Discard|Discarded]] at [[Setup Phase]]/[[Exit]].
+come [[Cards]] will have a mode that let you play them in a semi-permanent fashion. they will grant you some bonus while they are equipped. there are equipment slots. equipment can be upgraded: equip a bow, then play other bows under the first one to level it up. all equipment is [[Discard|Discarded]] at [[Setup Phase]]/[[Stairs]].
 
 ---
 

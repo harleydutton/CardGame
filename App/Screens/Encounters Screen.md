@@ -1,6 +1,0 @@
-- not timed
-- icon in corner telling players what player/[[Classes|Class]] it wants to resolve an encounter for
-- scroll-able ribbon with radio-box-icons that let you tell the app more players/[[Classes]] are in the [[Encounter]]/[[Tiles|Tile]]. encounters should change based on players/classes present.
-- large buttons for each [[Encounter]] icon to tell the app what encounter type to do.
-- should send to an encounter resolution screen and back.
-- when stairs button (that is an [[Encounter]] icon) is pressed it should internally floor++ and tell players to do [[Teardown+Setup+Respawn]]

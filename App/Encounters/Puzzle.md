@@ -1,1 +1,0 @@
-Riddles and such. Maybe math problems. IDK, these should be timed and give [[New Cards]] and maybe be used in [[Quest]].

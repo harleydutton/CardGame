@@ -1,6 +1,7 @@
-entry point/home screen for the app. should contain
-- [[Campaign]] picker
-- go button
-- [[Classes]] picker/player count input
-- should have something for getting you back to the game after a crash.
-	- input for [[Floor]] and maybe [[Resources]] and [[Cards]]
+Screen telling all players to [[Setup]] the next [[Floor]] and hit a "continue" button when finished. Should lead to [[Movement Timer Screen]].
+
+---
+
+![[Setup]]
+
+## Continue

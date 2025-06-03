@@ -14,5 +14,5 @@ Parts of a class as currently imagined:
 
 
 Class Ideas:
-- rogue, has stealth, treats [[Combat]] encounters as non blocking/stopping per the traffic controls in [[Tiles|Tile]]
+- rogue, has stealth, treats [[Combat.png]] and [[Ambush.png]] as non blocking/stopping per the traffic controls in [[Tiles|Tile]]
 - wizard, has second sight, treats ambush and trap [[Encounter|Encounters]] as blocking rather than stopping per [[Tiles|Tile]] traffic controls.

@@ -1,0 +1,1 @@
+Should have a "continue" button and tell the player their encounter is resolved and insert a singleton setup [[Setup Screen]] after all [[Encounter|Encounters]] are resolved.

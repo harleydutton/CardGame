@@ -1,0 +1,1 @@
+app should spend most of it's time on the ![[Encounter Selection Screen]]

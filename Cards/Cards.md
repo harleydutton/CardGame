@@ -13,7 +13,7 @@ aliases:
 - when players take damage they must [[Drop]] one card for each point of damage. players can choose to drop cards from a combination of their hand, [[Discard]], or top of [[Deck]].
 - playing cards will [[Discard]] them
 - players should shuffle their hand, [[Discard]] and [[Deck]] at [[Setup Phase]] before drawing a new hand.
-- perhaps if you don't have enough cards in [[Deck]] to draw a full hand at the start of [[Movement Phase]] you [[Exhaust]]. not sure yet if players should discard remainder of hand but should definitely draw up to hand size regardless.
+- perhaps if you don't have enough cards in [[Deck]] to draw a full hand at the start of [[Movement Timer Screen]] you [[Exhaust]]. not sure yet if players should discard remainder of hand but should definitely draw up to hand size regardless.
 - revive scroll cards should probably exist
 	- potentially let players keep their stuff when it would be lost
 	- revive immediately or during [[Setup Phase]]?

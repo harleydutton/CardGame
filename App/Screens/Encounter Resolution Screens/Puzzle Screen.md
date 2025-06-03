@@ -1,0 +1,1 @@
+riddles and word puzzles. Ideally funny ones. Could also be party game stuff like "get another player to say 'you're an ambulance' without using those words" or "get someone who hasn't seen this screen to give you a hug". perhaps minigames in later versions. should be timed either for quality of rewards or failure condition. maybe both.

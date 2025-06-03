@@ -1,2 +1,0 @@
-- [[App]] tells players to do [[Teardown+Setup+Respawn]]
-- stays dormant until this is complete. results in a good time to trade and level up

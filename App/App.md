@@ -1,4 +1,4 @@
-The app is meant to take tedium out of the hands of players an introduce an element of tension in the timed [[Movement Phase]].
+The app is meant to take tedium out of the hands of players an introduce an element of tension with various timed activities.
 
 | App concerns                           | Not App concerns |
 | -------------------------------------- | ---------------- |

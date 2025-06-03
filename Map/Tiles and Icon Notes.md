@@ -1,0 +1,3 @@
+- It doesn't make sense to put [[Obstacle.png]] on dead ends. alternatively, obstacles might only go on dead ends and resolving them successfully might knock you back and remove the tile so it can be explored anew while resolving them unsuccessfully might just flip them
+- The [[Boss.png]] icon can only appear on one tile or it will require a path disambiguation screen
+- Tiles must either consume, be unique, or use the icon+path combination on a disambiguation screen
