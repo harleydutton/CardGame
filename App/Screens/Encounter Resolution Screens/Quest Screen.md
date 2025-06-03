@@ -4,3 +4,4 @@
 - could give or require [[Resources]]/[[Cards]] from a random player participating in the [[Encounter]].
 - abstractly quests want you to make a choice. this choice should send you down one of the branches of the quest tree. optionally give the player multiple choices/moves along the quest tree in an encounter.
 - quests should be presented as text and optionally narration. the choices should be presented as 1-3 giant buttons with text, images, costs, and maybe rewards.
+- quests should maybe tell you the result of your actions, maybe not.

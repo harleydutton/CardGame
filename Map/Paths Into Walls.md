@@ -1,0 +1,1 @@
+When it is not possible to place [[Tiles]] validly some paths will end up pointing at walls. When this happens, treat those paths leading into walls as one-way, secret passages.

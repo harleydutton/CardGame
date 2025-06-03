@@ -16,6 +16,7 @@ All encounter resolution screens should display one of the following when comple
 
 | Icon                  | Encounter Name | Likely Encounter Resolution Screen                                       |
 | --------------------- | -------------- | ------------------------------------------------------------------------ |
+|                       | Blank          | none; skip turn; included as a reminder                                  |
 | ![[Stairs.png\|50]]   | Stairs         | [[Stairs Screen]]                                                        |
 | ![[Loot.png\|50]]     | Loot           | [[Loot Screen]]                                                          |
 | ![[Merchant.png\|50]] | Merchant       | [[Merchant Screen]]; might not be consumed                               |
